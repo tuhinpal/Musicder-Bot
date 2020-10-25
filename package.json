@@ -1,0 +1,31 @@
+{
+    "name": "musicder_telegram_bot",
+    "version": "1.0.0",
+    "description": "Telegram bot for Musicder, India's first open sourced Song Downloader Telegram Bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cachecleanerjeet/Musicder-Bot.git"
+    },
+    "dependencies": {
+        "telegraf": "^3.38.0",
+        "request": "^2.88.2"
+    },
+    "keywords": [
+        "telegraf",
+        "telegraf-js",
+        "jiosaavn",
+        "music-downloader-bot",
+        "musicder"
+    ],
+    "author": "Tuhin Kanti Pal",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/cachecleanerjeet/Musicder-Bot/issues"
+    },
+    "homepage": "https://github.com/cachecleanerjeet/Musicder-Bot#readme"
+}
